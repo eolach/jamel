@@ -1,0 +1,869 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"disp",
+				"display_message"
+			],
+			[
+				"dis",
+				"display_message"
+			],
+			[
+				"hyperlnk",
+				"hyperlink"
+			],
+			[
+				"qual",
+				"qual_inds_array"
+			],
+			[
+				"tot",
+				"total_results"
+			],
+			[
+				"save_",
+				"save_quality_indicators"
+			],
+			[
+				"d2d",
+				"d2d_get_team_status"
+			],
+			[
+				"weigh",
+				"weights_levels"
+			],
+			[
+				"indicator_",
+				"indicator_set"
+			],
+			[
+				"team",
+				"team_trend_results"
+			],
+			[
+				"indi",
+				"indicator_set"
+			],
+			[
+				"calcul",
+				"calculate_starfield"
+			],
+			[
+				"ind_",
+				"ind_array"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"indic",
+				"indicator"
+			],
+			[
+				"values",
+				"values_array"
+			],
+			[
+				"indicato",
+				"indicator_set"
+			],
+			[
+				"ind",
+				"indicator_set"
+			],
+			[
+				"num",
+				"num_pts"
+			],
+			[
+				"sett",
+				"setting"
+			],
+			[
+				"team_re",
+				"team_trend_results"
+			],
+			[
+				"number",
+				"number_format"
+			],
+			[
+				"fail",
+				"fail_response"
+			],
+			[
+				"all",
+				"all_charts"
+			],
+			[
+				"extra",
+				"extract_indicator"
+			],
+			[
+				"peer",
+				"peer_results"
+			],
+			[
+				"simple",
+				"simple_labels"
+			],
+			[
+				"average",
+				"averages_array"
+			],
+			[
+				"temp",
+				"temp_vars"
+			],
+			[
+				"effect",
+				"effectiveness_labels"
+			],
+			[
+				"temp_",
+				"temp_array"
+			],
+			[
+				"form",
+				"FORM"
+			],
+			[
+				"res",
+				"resp"
+			],
+			[
+				"json",
+				"jsonString"
+			],
+			[
+				"current",
+				"currentAttrValue"
+			],
+			[
+				"db_",
+				"db_record"
+			],
+			[
+				"quality",
+				"quality_agree"
+			],
+			[
+				"toggl",
+				"toggle_rates_quality"
+			],
+			[
+				"first",
+				"first_time"
+			],
+			[
+				"sho",
+				"short_form"
+			],
+			[
+				"sh",
+				"sqlite_has_more"
+			],
+			[
+				"back",
+				"back_to_rates"
+			],
+			[
+				"ren",
+				"render_forms"
+			],
+			[
+				"refresh",
+				"refresh_record"
+			],
+			[
+				"read_",
+				"read_from_db"
+			],
+			[
+				"indicator",
+				"indicator_set"
+			],
+			[
+				"send_dat",
+				"send_data_flag"
+			],
+			[
+				"new",
+				"new_record"
+			],
+			[
+				"db_re",
+				"db_results"
+			],
+			[
+				"display",
+				"display_errors"
+			],
+			[
+				"post",
+				"post_values"
+			],
+			[
+				"d2d_",
+				"d2d_specs"
+			],
+			[
+				"save",
+				"save_status"
+			],
+			[
+				"saved",
+				"saved_status"
+			],
+			[
+				"out",
+				"out_charts"
+			],
+			[
+				"ins",
+				"ind_set"
+			],
+			[
+				"var_ind",
+				"var_ind_set"
+			],
+			[
+				"confirm",
+				"confirm_form"
+			],
+			[
+				"regist",
+				"register_flag"
+			],
+			[
+				"owner",
+				"p_owner"
+			],
+			[
+				"conf",
+				"confirm_form"
+			],
+			[
+				"short",
+				"short_label"
+			],
+			[
+				"validat",
+				"validate_indicators"
+			],
+			[
+				"render",
+				"render_forms"
+			],
+			[
+				"base_",
+				"base_form"
+			],
+			[
+				"d2",
+				"d2d-form"
+			],
+			[
+				"quali",
+				"quality_form"
+			],
+			[
+				"rend",
+				"render_form"
+			],
+			[
+				"load",
+				"load_indicators"
+			],
+			[
+				"check_",
+				"check_for_new_record"
+			],
+			[
+				"refre",
+				"refresh_db_results"
+			],
+			[
+				"year",
+				"year_list"
+			],
+			[
+				"register",
+				"register_button"
+			],
+			[
+				"submit_f",
+				"submit_form"
+			],
+			[
+				"rates",
+				"rates_quality_button"
+			],
+			[
+				"rates_quality_",
+				"rates_quality_flag"
+			],
+			[
+				"erro",
+				"error_msgs"
+			],
+			[
+				"qbu",
+				"new_qbutton_form"
+			],
+			[
+				"err",
+				"error_msg"
+			],
+			[
+				"team_",
+				"team_form"
+			],
+			[
+				"array_key",
+				"array_keys"
+			],
+			[
+				"validate_",
+				"validate_team"
+			],
+			[
+				"show",
+				"show_new_team_form"
+			],
+			[
+				"updat",
+				"update_indicators_from_vars"
+			],
+			[
+				"rate",
+				"rates_button"
+			],
+			[
+				"ba",
+				"back_to_rates"
+			],
+			[
+				"reg",
+				"register_button"
+			],
+			[
+				"q",
+				"quality_button"
+			],
+			[
+				"show_",
+				"show_other_forms"
+			],
+			[
+				"submit",
+				"submit_button"
+			],
+			[
+				"valid",
+				"valid_team"
+			],
+			[
+				"old",
+				"old_team_code"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"form_",
+				"form_is_valid"
+			],
+			[
+				"to",
+				"todo	@todo"
+			],
+			[
+				"retri",
+				"retrieve_data"
+			],
+			[
+				"return",
+				"return_text"
+			],
+			[
+				"retur",
+				"return_text"
+			],
+			[
+				"set_",
+				"set_select_tag"
+			],
+			[
+				"retrieve",
+				"retrieve_old_data"
+			],
+			[
+				"indicat",
+				"indicator_list"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"indicators",
+				"indicatorsList"
+			],
+			[
+				"array_pu",
+				"array_push"
+			],
+			[
+				"te",
+				"text"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"Snippet: function",
+				"Snippet: function …"
+			],
+			[
+				"Snippet: func",
+				"Snippet: function …"
+			],
+			[
+				"Snippet: fun",
+				"Snippet: function …"
+			],
+			[
+				"Snippet: function ",
+				"Snippet: function …"
+			],
+			[
+				"Snippet: functin",
+				"Snippet: function …"
+			],
+			[
+				"php",
+				"Tidy PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ph",
+				"Tidy PHP"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/d2d-review-class.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/js/d2d_js.js",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/d2d-test-data.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/afhto2015/css/style.css",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/css/d2d-review.css",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/main_page1.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/afhto2015/css/font-awesome.css",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/afhto2015/bootstrap/css/bootstrap-theme.css",
+		"/Users/MiniMc/Dropbox/WebSite/sftp-config.json",
+		"/Users/MiniMc/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/MiniMc/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/afhto2015/bootstrap/css/bootstrap.css",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/main_page2.php",
+		"/Applications/TheBrain.app/Contents/java/app/output.log",
+		"/private/var/folders/91/yslrl4xd1y140gvv9zcqxzdc0000gn/T/fz3temp-1/d2d-test-data.php",
+		"/private/var/folders/91/yslrl4xd1y140gvv9zcqxzdc0000gn/T/fz3temp-1/d2d-review-class.php",
+		"/Users/MiniMc/Dropbox/AFHTO/D2D/data/d2d_amCharts2.txt",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/AFHTO_2015/style",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/d2d-indicator-specs.php",
+		"/private/var/folders/91/yslrl4xd1y140gvv9zcqxzdc0000gn/T/fz3temp-1/wp-config.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/d2d-plugin-admin.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/main_page.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/d2d-get-data.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/d2d-form.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/d2d-input-class.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/d2d-input.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/d2d-indicator.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins.hold/d2d_js.js",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/d2d-review-addon.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/includes/getData.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/includes/d2d_tab1.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/byronyasgur.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/js/d2d_js.js",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/includes/main_page.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/css/d2d-review.css",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/d2d-review.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/d2d-review_addon.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/includes/d2d-review-class.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/afhto_theme/style.css",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/includes/main_page0.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/js/d2d_js0.js",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/amcharts_3.14.1/amcharts/plugins/dataloader/examples/pie_json.html",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/data/getData.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/includes/d2d_tab2.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/includes/d2d_performance.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/includes/d2d_qual_cost.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/css/d2d_review.css",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/data/fetchData5.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/js/d2d.js",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/includes/menu.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-review/d2d_review.php",
+		"/private/var/folders/91/yslrl4xd1y140gvv9zcqxzdc0000gn/T/fz3temp-1/version.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/d2d-styles.css",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/D2D refresh .png",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/d2d-input-class(backup).php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/d2d-input-class (original).php",
+		"/Users/MiniMc/Library/Application Support/BibDesk/Templates/mmdCiteKey.txt",
+		"/Users/MiniMc/Dropbox/WebSite/Starfield/app/Controller/_ResultsController.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-capture-data/afhto.css",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-input/includes/d2d-input-class .php",
+		"/Users/MiniMc/Library/Application Support/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/MiniMc/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/data/fetchData3.1.php",
+		"/Users/MiniMc/Library/Application Support/Sublime Text 2/Packages/SFTP/Default (OSX).sublime-keymap",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-capture-data/d2d-capture-data.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-capture-data/d2d-styles.css",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-capture-data/options_generator_output.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-capture-data/templates/settings.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-capture-data/d2d-capture-test.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/data/d2d-capture-data.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/data/fetchData1.0.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/data/fetchData1.1.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/data/fetchData3.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/data/fetchData0.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/data/fetchData.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/data/fetchData1.3.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/data/fetchData1local.php",
+		"/Users/MiniMc/Dropbox/WebSite/Starfield/composer.json",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-capture-data/d2d-capture-data3.php",
+		"/Users/MiniMc/Downloads/installers/Formitable-v1.1/Formitable.class.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/he-test-functions/he_test_functions.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-capture-data/sample_form.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-capture-data/d2d-capture-data2.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d-capture-data/d2d-capture-data1.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d_display_results/captureD2Ddata.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d_capture_data/d2d-capture-data.php",
+		"/private/var/folders/91/yslrl4xd1y140gvv9zcqxzdc0000gn/T/fz3temp-1/fetchData1.php",
+		"/private/var/folders/91/yslrl4xd1y140gvv9zcqxzdc0000gn/T/fz3temp-2/fetchData1.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/data/scratch.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/formidable/formidable.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/twentyfourteen/functions.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/Formidable Pro code/dbMgt.js",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/formidable/deprecated.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/formidable/classes/controllers/FrmFieldsController.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/formidable/classes/controllers/FrmAppController.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/formidable/classes/controllers/FrmEntriesController.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/formidable/classes/recaptchalib.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d_display_results/captureD2Ddata.js",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/populateDropdown.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/amcharts-charts-and-maps/fetchData.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/amcharts-charts-and-maps/data/fetchData.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/tablepress/views/view-about.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/tablepress/classes/class-controller.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/tablepress/controllers/controller-frontend.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/tablepress/tablepress.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/tablepress/classes/class-view.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d_display_results/classes/class-d2d_display_results.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/tablepress/classes/class-tablepress.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d_display_results/d2d_display_results.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/tablepress/controllers/controller-admin_ajax.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/tablepress/js/jquery.datatables.min.js",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/wpdatatables_1_5_6/wpdatatables.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/wpdatatables_1_5_6/source/class.tpl.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/wpdatatables_1_5_6/source/class.string.wpdatacolumn.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/wpdatatables_1_5_6/source/class.sql.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/tablepress/views/index.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d_display_results/classes/class_d2d_display_results.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/d2d_display_results.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/tablepress/index.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-config.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/basic/rtl.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/basic/license.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/basic/single.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/basic/sidebar.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/basic/searchform.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/basic/content.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/basic/index.php",
+		"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/themes/basic/search.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/amcharts-charts-and-maps/includes,/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/amcharts-charts-and-maps",
+			"/Users/MiniMc/Dropbox/WebSite/D2D/wp-content/plugins/amcharts-charts-and-maps/includes",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"render_forms",
+			"$this -> msg =",
+			"approval",
+			"send_data",
+			"quality_agree",
+			"send_data_flag",
+			"form_indicators",
+			"quality_agree",
+			"share_agree",
+			"form_indicators",
+			"Would you",
+			"quality_agree",
+			"main_page",
+			":before",
+			"::before",
+			"li::before",
+			"chevron",
+			".li",
+			"@media",
+			"$con",
+			"\"id\"",
+			"'id'",
+			"'id",
+			"$this -> id",
+			"db_results",
+			"year_code",
+			"$rewRecord",
+			"rewRecord",
+			"new_record",
+			"p_owner",
+			"first_time",
+			"set_value",
+			"Content",
+			"p ",
+			"Content",
+			"contentHeader",
+			"Value",
+			"is fine",
+			"Value",
+			"retrieve_indicator_from_form",
+			"post_values",
+			"get_db_table",
+			"db_type",
+			"format_decimals",
+			"validate_single_value",
+			"process_post_values",
+			"validate_team_code",
+			"retrieve_data_sets",
+			"quality_agree",
+			"qual_agree",
+			"total_results",
+			"results",
+			"read_POST_variables",
+			"Please indicate",
+			"submit",
+			"JVMC",
+			"<Code value",
+			"\n<Name xml",
+			"<Name xml",
+			"<CodeList id",
+			"><",
+			"<CodeList id",
+			"core_only",
+			".",
+			"+",
+			"build_simple_chart",
+			"build_simple_stats",
+			"number_format",
+			"build_qual_stats",
+			"quality_agree",
+			"build_trend_stats",
+			"build_stats",
+			"Team code",
+			"$this -> team_results",
+			"build_simple_stats",
+			") )",
+			"animateAgain",
+			"temp_total",
+			"temp_overall",
+			"fail_code",
+			"d2d_instruct",
+			"d2d_decode",
+			"qual_collab",
+			"qual_commit",
+			"qual_know",
+			"qual_trust",
+			"qual_sense",
+			"qual_access",
+			"Overall",
+			"qual_over",
+			"getvars",
+			"simple",
+			"simple_old",
+			"();\n",
+			"simple_old",
+			"test_vars",
+			") )",
+			"build_group_chart",
+			"d2d_values",
+			"build_d2d_ind_values",
+			"build_stats",
+			"build_data_qual_ind",
+			"extract_indicator",
+			"4453\n4453",
+			"4315",
+			") )",
+			"fail_code",
+			"d2d_decode",
+			"valida",
+			"immunization",
+			"rost_all",
+			"pat_centered_labels",
+			"test_vars",
+			"$this -> test_vars",
+			"rostered",
+			"read_post",
+			"print_r",
+			"echo",
+			"build_stats",
+			"extract_indicator",
+			"build_stats",
+			"build_d2d_ind_values",
+			"echo",
+			"extract_hex_indicators",
+			"return_array",
+			"build_indicator_stats",
+			"team_trend_results",
+			"qual"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wplocal:8888",
+			"wplocal"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true
+}
